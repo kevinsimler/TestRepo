@@ -10,6 +10,10 @@ I'm Jacoob!
 - [MERRY CHRISTMAS SCRATCH](https://scratch.mit.edu/projects/350113988/) - digital Christmas card
 - [Burger Clicker](https://scratch.mit.edu/projects/355849341/) - an amazing game I spent WEEKS working on!
 
+My Scratch studio is called [Burgers and Kirby Club](https://scratch.mit.edu/studios/25395189/), check it out!
+
+![](burgers_and_kirby_club.png)
+
 # Songs
 
 COMING SOOOOON...
