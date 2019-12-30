@@ -1,5 +1,13 @@
-# TestRepo header 1
+# Scratch projects
 
-Text
+- [Devil Quest Chapter 1](https://scratch.mit.edu/projects/355097652/) - 
+- [MERRY CHRISTMAS SCRATCH](https://scratch.mit.edu/projects/350113988/) - digital Christmas card
+- [Burger Clicker](https://scratch.mit.edu/projects/355849341/) - an amazing game I spent WEEKS working on!
 
-Text
+# Drawings
+
+
+
+# Songs
+
+COMING SOOOOON...
