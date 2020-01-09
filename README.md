@@ -6,6 +6,8 @@ Just a little home on the web.
   I'm Jacoob!!!
 </div>
 
+yeet
+
 # Scratch projects
 
 - [Devil Quest Chapter 1](https://scratch.mit.edu/projects/355097652/) - my first RPG. You play as 15-year-old Yori, along with your Robot Assistant Homie (RAH)
