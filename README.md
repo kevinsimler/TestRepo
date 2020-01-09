@@ -1,4 +1,4 @@
-Just a little home on the web..
+Just a little home on the web.
 
 # About me
 
