@@ -2,9 +2,12 @@
 ---
 
 @import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap');
 
 body {
   background: #0000FF;
+  font-family: "Press Start 2P";
 }
 
 .kstyle {
